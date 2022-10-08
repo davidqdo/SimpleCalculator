@@ -46,7 +46,7 @@ a {
 }
 
 .theme-toggler.active::before {
-    color: #fff;
+    background-color: #fff;
 }
 
 .theme-toggler::before {
